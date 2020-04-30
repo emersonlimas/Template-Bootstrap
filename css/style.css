@@ -1,0 +1,134 @@
+* {
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+h4, h5, h6 {
+    text-transform: uppercase;
+}
+
+.navbar {
+    text-transform: uppercase;
+    background-color: #fff !important;
+}
+
+.menu a {
+    color: #000 !important;
+}
+
+.menu a:hover {
+    color: #ccc !important;
+}
+
+.inicio {
+    margin-top: 50px;
+}
+
+.jumbotron {
+    background-color: #fff !important;
+}
+
+.btn-primary {
+    background-color: #000 !important;
+    color: #fff !important;
+    border: 1px solid black !important;
+}
+
+.btn-primary:hover {
+    background-color: #fff !important;
+    color: #000 !important;
+    border: 1px solid black !important;
+}
+
+.cards {
+    text-align: center;
+    margin-top: 150px;
+}
+
+i {
+    font-size: 50px;
+}
+
+.meio-1 {
+    margin-top: -80px;
+    background-color: #000;
+    height: 100px;
+    width: 100%;
+}
+
+.meio-2 {
+    background-color: #000;
+    height: 100%;
+    width: 100%;
+    color: #fff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    justify-content: center;
+    text-align: center;
+}
+
+.meio-3 {
+    background-color: #fff;
+    height: 100%;
+    width: 100%;
+}
+
+.meio-4 {
+    background-color: #fff;
+    height: 100%;
+    width: 100%;
+}
+
+.meio-5 {
+    background-color: #000;
+    color: #fff;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.card {
+    -webkit-box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
+}
+
+.progresso {
+    color: #000;
+    margin-top: 25px;
+}
+
+.progress {
+    margin-top: 60px;
+}
+
+.direita {
+    float: right;
+}
+
+.text2 {
+    margin-top: 70px;
+}
+
+.btn-light {
+    background-color: #fff !important;
+    color: #000 !important;
+    border: 1px solid black !important;
+}
+
+.btn-light:hover {
+    background-color: #000 !important;
+    color: #fff !important;
+    border: 1px solid white !important;
+}
+
+.links-footer a {
+    color: #fff !important;
+    text-decoration: none;
+    text-transform: uppercase;
+}
